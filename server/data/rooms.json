@@ -1,0 +1,163 @@
+[
+  {
+    "name": "The Taj Mahal Tower Mumbai",
+    "pricePerNight": 200,
+    "description": "Built in 1973, the iconic The Taj Mahal Tower Mumbai stands majestically across from the Gateway of India, overlooking the Arabian Sea. The Tower stands in harmonious contrast to The Taj Mahal Palace with its arched balconies and newly refurbished rooms. Sprawling over 2.6 acres, this luxurious hotel",
+    "address": "Apollo Bunder, South Mumbai, Mumbai, India, 400001",
+    "guestCapacity": 1,
+    "numOfBeds": 1,
+    "internet": true,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "hotelapp/room1_gkv8vn.png",
+        "url": "https://res.cloudinary.com/techinfoyt/image/upload/v1635355629/hotelapp/room1_gkv8vn.png"
+      }
+    ],
+    "category": "King"
+  },
+  {
+    "name": "Sahara Star Hotel",
+    "pricePerNight": 70,
+    "description": "At Sahara Star Hotel, the excellent service and superior facilities make for an unforgettable stay. Featuring modern décor and floor-to-ceiling windows, rooms are fitted with a seating area and flat-screen TV. A bathtub and hot shower are available in the private bathroom. Guests can work out at the fitness centre. Car rental and sightseeing arrangements can be made at the hotel’s tour desk. ",
+    "address": "Opposite Domestic Airport, Vile Parle East, Vile Parle, Mumbai, India, 400099",
+    "guestCapacity": 2,
+    "numOfBeds": 2,
+    "internet": true,
+    "breakfast": false,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "hotelapp/3_quuli7.jpg",
+        "url": "https://res.cloudinary.com/hotelapp/image/upload/v1618590762/hotelapp/rooms/3_quuli7.jpg"
+      }
+    ],
+    "category": "Twins"
+  },
+  {
+    "name": "Sea Princess Hotel",
+    "pricePerNight": 60,
+    "description": "Located on Juhu facing the sea, the Sea Princess hotel remains true to its name. With extremely caring staff members making sure at every moment that your stay is comfortable, the hotel deserves to be recommended for every solo (mainly) traveler or any couple, who would like to enjoy some intimate moments together. ",
+    "address": "3747 Parkway Street, Apple Valley, CA, 92307",
+    "guestCapacity": 3,
+    "numOfBeds": 2,
+    "internet": true,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": true,
+    "roomCleaning": false,
+    "images": [
+      {
+        "public_id": "hotelapp/room2_gtc1br.png",
+        "url": "https://res.cloudinary.com/techinfoyt/image/upload/v1635355627/hotelapp/room2_gtc1br.png"
+      }
+    ],
+    "category": "King"
+  },
+  {
+    "name": "ITC Maratha, a Luxury Collection Hotel, ",
+    "pricePerNight": 150,
+    "description": "Inspired by the Maratha dynasty, located conveniently close to both the international and domestic airports and in close proximity to the business districts of north and central Mumbai, ITC Maratha is a 5-star business hotel that presents an ambience steeped in history. ",
+    "address": "Sahar Airport Road, Near International Airport, Andheri East, Mumbai, India, 400099",
+    "guestCapacity": 6,
+    "numOfBeds": 3,
+    "internet": true,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "hotelapp/room3_wuctts.jpg",
+        "url": "https://res.cloudinary.com/techinfoyt/image/upload/v1635355628/hotelapp/room3_wuctts.jpg"
+      }
+     
+    ],
+    "category": "Single"
+  },
+  {
+    "name": "Trident Nariman Point Mumbai Hotel",
+    "pricePerNight": 100,
+    "description": "Trident Nariman Point Mumbai Hotel offers impeccable service and all the essential amenities to invigorate travelers. Guests of the hotel can enjoy on-site features like 24-hour room service, 24-hour front desk, facilities for disabled guests, express check-in/check-out, luggage storage. ",
+    "address": "Nariman Point Bombay, South Mumbai, Mumbai, India, 400021",
+    "guestCapacity": 2,
+    "numOfBeds": 1,
+    "internet": true,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "hotelapp/room4_u9uldq.jpg",
+        "url": "https://res.cloudinary.com/techinfoyt/image/upload/v1635355627/hotelapp/room4_u9uldq.jpg"
+      }
+    ],
+    "category": "King"
+  },
+  {
+    "name": "Hilton Mumbai International Airport",
+    "pricePerNight": 120,
+    "description": "Located just five minutes from the airport, Hilton Mumbai International Airport is the choice for business and leisure travelers. This Hilton property is within a 20-minute drive of the prime business districts such as Andheri, Bandra Kurla Complex, Powai, and the Bombay Exhibition Center. ",
+    "address": "Sahar Airport Road, Andheri East, Andheri East, Mumbai, India, 40009",
+    "guestCapacity": 2,
+    "numOfBeds": 2,
+    "internet": true,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "hotelapp/room5_aunjck.jpg",
+        "url": "https://res.cloudinary.com/techinfoyt/image/upload/v1635355627/hotelapp/room5_aunjck.jpg"
+      }
+    ],
+    "category": "Twins"
+  },
+  {
+    "name": "CollarCamp’s Oberoi Apartments Luxurious 1BHK",
+    "pricePerNight": 82,
+    "description": "Our largest room with a queen bed and foldable sofa. Comfortably fits 2-3 adults, four adults maximum. Decorated with Irish-themed colors and arts. It has a private bathroom with a shower, equipped with smart TV, mini-fridge, desk, chairs. Enjoy City views at the sitting area by the window. Located on the 3rd floor with no elevator.",
+    "address": "Navi Mumbai, Mumbai, India",
+    "guestCapacity": 5,
+    "numOfBeds": 3,
+    "internet": true,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": false,
+    "images": [
+      {
+        "public_id": "hotelapp/room6_bblcl2.jpg",
+        "url": "https://res.cloudinary.com/techinfoyt/image/upload/v1635355627/hotelapp/room6_bblcl2.jpg"
+      }
+    ],
+    "category": "Single"
+  },
+  {
+    "name": "ITC Grand Central, a Luxury Collection Hotel",
+    "pricePerNight": 76,
+    "description": "For travelers who want to take in the sights and sounds of Mumbai, ITC Grand Central A Luxury Collection Hotel is the perfect choice. From here, guests can make the most of all that the lively city has to offer. With its convenient location, the property offers easy access to the city's must-see destinations.",
+    "address": "Doctor Baba Saheb Ambedkar Road, Mumbai Central, Mumbai, India, 400012",
+    "guestCapacity": 2,
+    "numOfBeds": 1,
+    "internet": true,
+    "breakfast": false,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "hotelapp/room9_mkdrnm.jpg",
+        "url": "https://res.cloudinary.com/techinfoyt/image/upload/v1635355628/hotelapp/room9_mkdrnm.jpg"
+      }
+    ],
+    "category": "Single"
+  }
+]
